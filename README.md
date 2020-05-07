@@ -3,3 +3,5 @@
 2 cd gps-map-server
 3 mkdir build 
 4 make 
+
+<./demo\n>
