@@ -4,4 +4,4 @@
 3 mkdir build 
 4 make 
 
-<./demo\n>
+<./demo>
