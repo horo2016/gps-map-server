@@ -25,4 +25,5 @@ mosquitto_sub 能够实用并且支持web soc。
 
 技术支持：839602830
 
-支持网站：机器人车技术开发分享网（技发网）
+支持网站：机器人车技术开发分享网（技发网）http://cvosrobot.com
+http://blog.cvosrobot.com
